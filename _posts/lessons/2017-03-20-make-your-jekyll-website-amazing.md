@@ -1,21 +1,28 @@
 ---
+title: Make Your Jekyll Website Amazing
+date: 2017-03-20 00:00:00 Z
+categories:
+- lessons
+tags:
+- bootstrap
+- web desing
+- jekyll
 layout: post
-category : lessons
-tagline: "Using FullIt.github.io"
-tags : [bootstrap, web desing, jekyll]
-img : 
-img-mobile : 
-img2 : 
-img3 : 
-author : Antonio Trento
-title2 : Improve the desing of your blog
-title3 : Make it a full of slides
+tagline: Using FullIt.github.io
+img: 
+img-mobile: 
+img2: 
+img3: 
+author: Antonio Trento
+title2: Improve the desing of your blog
+title3: Make it a full of slides
 css: 
 js: 
 bgcolor: ff5a71
 keywords: fullit, web desing, css, html, bootstrap
 canonical: https://fullit.github.io
 ---
+
 {% include JB/setup %}
 
 ## How you can make an Amazing Website?

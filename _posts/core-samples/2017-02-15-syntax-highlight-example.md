@@ -1,21 +1,26 @@
 ---
+title: Syntax Highlight Example
+date: 2017-02-15 00:00:00 Z
+categories:
+- lessons
+tags:
+- jekyll
+- code
 layout: post
-category : lessons
-tagline: "Example how post on Jekyll FullIt"
-tags : [jekyll, code]
-img : 1.jpg
-img2 : 2.jpg
-img3 : 3.jpg
-author : Antonio Trento
-title2 : Ciao bello
-title3 : Ciao fantastico
+tagline: Example how post on Jekyll FullIt
+img: 1.jpg
+img2: 2.jpg
+img3: 3.jpg
+author: Antonio Trento
+title2: Ciao bello
+title3: Ciao fantastico
 css: 
 js: 
 bgcolor: ff5a71
 keywords: fullpage, html, css, landing page, jekyll, ruby, web marketing, advertising
 canonical: https://fullit.github.io
-
 ---
+
 {% include JB/setup %}
 
 An example post about code insertion into posts.

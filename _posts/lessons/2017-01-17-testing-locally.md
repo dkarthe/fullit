@@ -1,21 +1,29 @@
 ---
+title: Testing Locally
+date: 2017-01-17 00:00:00 Z
+categories:
+- lessons
+tags:
+- intro
+- beginner
+- jekyll
+- tutorial
 layout: post
-category : lessons
-tagline: "How to test your Jekyll site locally"
-tags : [intro, beginner, jekyll, tutorial]
-img : 3.jpg
-img-mobile : 3-mobile.jpg
-img2 : 2.jpg
-img3 : 3.jpg
-author : Antonio Trento
-title2 : New FullIt Theme
-title3 : Created for jekyll
+tagline: How to test your Jekyll site locally
+img: 3.jpg
+img-mobile: 3-mobile.jpg
+img2: 2.jpg
+img3: 3.jpg
+author: Antonio Trento
+title2: New FullIt Theme
+title3: Created for jekyll
 css: 
 js: 
 bgcolor: ff5a71
 keywords: fullpage, html, css, landing page, jekyll, ruby, web marketing, advertising
 canonical: https://fullit.github.io
 ---
+
 {% include JB/setup %}
 
 In this tutorial I will teach you *how to test your Jekyll Bootstrap3* site locally.
